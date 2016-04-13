@@ -1,0 +1,36 @@
+// Place all the styles related to the quiz controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+h1{
+	font-family: 'Indie Flower', cursive;
+	color: #90C3D4;
+	text-align: center;
+	padding: 140px;
+	font-size:60px;
+}
+
+p{
+	color: #D4A190;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2{
+
+	color: #F22C57;
+	text-align: center;
+	font-size: 40px;
+}
+
+body{
+    background-image: url(/assets/my-back.jpg);
+    background-size: cover;
+
+}
+
+.back{
+
+	background-color: rgba(100,100,100,0.4);
+}
