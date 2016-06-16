@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails_12factor'
+gem 'simple_form'
+gem 'bootstrap-sass'
+gem 'sprockets'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
